@@ -1,0 +1,104 @@
+attitudinal:
+  ches2019:
+    lrgen_vs_antielite_salience:
+      cbar_rect:
+      - 0.15
+      - 0.6
+      - 0.02
+      - 0.3
+      legend_loc: lower center
+      limits:
+      - -2
+      - 12
+      nudges:
+        Groen:
+        - 0
+        - 0
+        'CD&V':
+        - -0.4
+        - -0.8
+        Ecolo:
+        - -0.8
+        - 0.6
+        MR:
+        - 0.8
+        - -0.4
+        PS:
+        - 0
+        - -0.8
+        PSC/CDH:
+        - 0
+        - 0
+        PVDA-PTB:
+        - 0
+        - -0.8
+        SP.A:
+        - 0
+        - 0.6
+        VB:
+        - -1.2
+        - 0
+        'Open Vld':
+        - 0.8
+        - 0
+        N-VA:
+        - 1
+        - 0
+      quantiles:
+      - 0
+      - 1
+ideological:
+  cbar_rect:
+  - 0.15
+  - 0.42
+  - 0.03
+  - 0.45
+  legend_loc: upper right
+  limits:
+    x:
+    - -2
+    - 4
+    y:
+    - -2
+    - 4
+  nudges:
+    Groen:
+    - 0.25
+    - -0.25
+    'CD&V':
+    - -0.7
+    - 0
+    Ecolo:
+    - 0.2
+    - -0.3
+    MR:
+    - -0.65
+    - 0.15
+    PS:
+    - 0.3
+    - -0.2
+    PVDA-PTB:
+    - 0
+    - -0.4
+    SP.A:
+    - -0.8
+    - -0.2
+    VB:
+    - 0.2
+    - 0
+    'Open Vld':
+    - -1.2
+    - 0.25
+    N-VA:
+    - 0.25
+    - 0.05
+palette:
+  'CD&V': blue
+  Ecolo: tab:green
+  MR: navy
+  PS: tab:pink
+  PVDA-PTB: red
+  SP.A: tab:purple
+  VB: orangered
+  'Open Vld': magenta
+  N-VA: tab:brown

@@ -1,0 +1,87 @@
+attitudinal:
+  ches2019:
+    lrgen_vs_antielite_salience:
+      cbar_rect:
+      - 0.15
+      - 0.6
+      - 0.02
+      - 0.3
+      legend_loc: lower center
+      limits:
+      - -2
+      - 12
+      nudges:
+        PNL:
+        - 0.6
+        - -0.2
+        UDMR:
+        - 0.6
+        - 0.2
+        PSD:
+        - -1.8
+        - 0.2
+        USR:
+        - 0.8
+        - 0
+ideological:
+  cbar_rect:
+  - 0.15
+  - 0.45
+  - 0.03
+  - 0.3
+  legend_loc: upper right
+  gridsize:
+    - 200
+    - 50
+  limits:
+    x:
+    - -2
+    - 2
+    y:
+    - -2
+    - 3
+  nudges:
+    PNL:
+      - 0.1
+      - 0.1
+    UDMR:
+      - -0.5
+      - 0.1
+    PSD:
+      - 0.15
+      - -0.1
+    USR:
+      - 0.1
+      - 0.1
+    AUR:
+        - 0.1
+        - 0.1
+    GPMN:
+        - 0.1
+        - 0.1
+    FD:
+        - 0.1
+        - 0.1
+    PLUS:
+        - 0.1
+        - 0.1
+    REPER:
+        - 0.1
+        - 0.1
+    PUSL:
+        - 0.1
+        - 0.1
+    AD:
+        - 0.1
+        - 0.1
+    ApP:
+        - 0.1
+        - 0.1
+    S.O.S. România:
+        - 0.1
+        - 0.1
+palette:
+  PNL: cornflowerblue
+  UDMR: gold
+  PSD: tab:purple
+  USR: orangered

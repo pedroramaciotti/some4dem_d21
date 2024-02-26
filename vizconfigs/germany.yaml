@@ -1,0 +1,78 @@
+attitudinal:
+  ches2019:
+    lrgen_vs_antielite_salience:
+      cbar_rect:
+      - 0.15
+      - 0.6
+      - 0.02
+      - 0.3
+      legend_loc: lower right
+      limits:
+      - -2
+      - 12
+      nudges:
+        AfD:
+        - -0.2
+        - -0.8
+        CDU:
+        - 0.6
+        - 0.6
+        CSU:
+        - 1.2
+        - -0.8
+        FDP:
+        - -1.6
+        - -0.6
+        GRÜNE:
+        - -2
+        - 0.2
+        LINKE:
+        - 0.5
+        - 0.4
+        SPD:
+        - -1.5
+        - -0.4
+ideological:
+  cbar_rect:
+  - 0.73
+  - 0.525
+  - 0.05
+  - 0.35
+  legend_loc: lower right
+  limits:
+    x:
+    - -2
+    - 3.5
+    y:
+    - -2
+    - 3.5
+  nudges:
+    AfD:
+    - -0.2
+    - -0.45
+    CDU:
+    - -0.8
+    - -0.2
+    CSU:
+    - -0.8
+    - 0.1
+    FDP:
+    - 0.4
+    - 0
+    GRÜNE:
+    - 0.4
+    - -0.1
+    LINKE:
+    - 0.3
+    - -0.1
+    SPD:
+    - 0.5
+    - -0.1
+palette:
+  AfD: magenta
+  CDU: black
+  CSU: tab:blue
+  FDP: gold
+  GRÜNE: tab:green
+  LINKE: mediumvioletred
+  SPD: red

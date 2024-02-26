@@ -1,0 +1,109 @@
+attitudinal:
+  ches2019:
+    lrgen_vs_antielite_salience:
+      cbar_rect:
+        - 0.15
+        - 0.6
+        - 0.02
+        - 0.3
+      legend_loc: upper right
+      limits:
+        - -2
+        - 12
+      nudges:
+        BNG:
+          - 0.2
+          - 0.65
+        CC:
+          - 0
+          - 0.7
+        Cs:
+          - -0.8
+          - 0.4
+        EH Bildu:
+          - -1.2
+          - -1.2
+        ERC:
+          - 1.2
+          - -0.2
+        PNV:
+          - 0.5
+          - -0.4
+        PP:
+          - 0.8
+          - 0
+        PSOE:
+          - -2
+          - 0
+        Más País-Equo:
+          - 1.2
+          - 0.5
+        Podemos:
+          - 0.2
+          - 0.5
+        Vox:
+          - 0
+          - -0.9
+ideological:
+  cbar_rect:
+  - 0.15
+  - 0.4
+  - 0.05
+  - 0.5
+  legend_loc: lower right
+  limits:
+    x:
+    - -4
+    - 4
+    y:
+    - -4
+    - 4
+  nudges:
+    BNG:
+      - 0.4
+      - 0.4
+    Cs:
+      - -0.2
+      - 0.4
+    CC:
+      - -0.6
+      - 0.4
+    EH Bildu:
+      - 0.4
+      - 0.4
+    ERC:
+      - 0.4
+      - -0.2
+    PNV:
+      - -1
+      - 0.2
+    PP:
+      - 0.6
+      - 0
+    PSOE:
+      - -1.2
+      - 0
+    Más País-Equo:
+      - -2
+      - -0.5
+    Podemos:
+      - -1.4
+      - -0.2
+    Vox:
+      - 0.6
+      - -0.2
+    JxCat:
+      - 0
+      - 0
+palette:
+  BNG: tab:brown
+  CC: purple
+  Cs: orangered
+  'EH Bildu': mediumvioletred
+  ERC: gold
+  PNV: tab:green
+  PP: tab:blue
+  PSOE: red
+  'Más País-Equo': tab:pink
+  Podemos: tab:purple
+  Vox: magenta

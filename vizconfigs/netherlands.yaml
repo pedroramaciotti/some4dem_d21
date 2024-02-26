@@ -1,0 +1,120 @@
+attitudinal:
+  ches2019:
+    lrgen_vs_antielite_salience:
+      cbar_rect:
+      - 0.15
+      - 0.6
+      - 0.02
+      - 0.3
+      legend_loc: lower left
+      limits:
+      - -2
+      - 12
+      nudges:
+        '50+':
+        - 0.6
+        - -0.2
+        CDA:
+        - 0
+        - -0.8
+        CU:
+        - -1.2
+        - 0
+        D66:
+        - 0
+        - 0.8
+        DENK:
+        - 0.6
+        - 0.2
+        FVD:
+        - 0
+        - -0.8
+        GL:
+        - -0.6
+        - 0.6
+        PVV:
+        - -1.6
+        - 0
+        PvdD:
+        - -1.6
+        - 0
+        PvdA:
+        - 0
+        - 0.6
+        SGP:
+        - 0.6
+        - -0.2
+        SP:
+        - -1
+        - 0.2
+        VVD:
+        - 0
+        - 0.8
+ideological:
+  cbar_rect:
+  - 0.15
+  - 0.35
+  - 0.03
+  - 0.45
+  legend_loc: upper right
+  limits:
+    x:
+    - -2.5
+    - 3
+    y:
+    - -2
+    - 4
+  nudges:
+    '50+':
+    - -0.2
+    - 0.2
+    CDA:
+    - 0.3
+    - 0
+    CU:
+    - 0
+    - -0.4
+    D66:
+    - 0.4
+    - 0
+    DENK:
+    - -0.3
+    - -0.6
+    FVD:
+    - 0
+    - -0.6
+    GL:
+    - 0.4
+    - 0
+    PVV:
+    - 0
+    - 0.6
+    PvdD:
+    - 0.4
+    - 0
+    PvdA:
+    - 0.4
+    - -0.1
+    SGP:
+    - 0
+    - 0.4
+    SP:
+    - 0
+    - -0.3
+    VVD:
+    - 0.3
+    - 0.2
+palette:
+  '50+': navy
+  CDA: mediumvioletred
+  CU: tab:blue
+  D66: cornflowerblue
+  DENK: gold
+  FVD: magenta
+  GL: tab:green
+  PVV: black
+  PvdD: tab:brown
+  PvdA: tab:purple
+  SGP: orangered
+  SP: red
+  VVD: tab:pink
