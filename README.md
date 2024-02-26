@@ -18,6 +18,12 @@ Jean-Philippe Cointet [2], and Armin Pournaki [2,3]
 
 ------------------------------------------------------------------------------------------------
 
+Cite the dataset as:
+
+Ramaciotti Morales, Pedro; Royo-Letelier, Jimena; Cointet, Jean-Philippe; Pournaki, Armin (2024). Attitudinally-positioned European sample dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25288210.v1
+
+------------------------------------------------------------------------------------------------
+
 ### EXECUTIVE SUMMARY 
 
 These files provide a dataset of attitudinally positioned populations of social media users in Europe. 
